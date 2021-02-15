@@ -1,0 +1,41 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Will Bridges
+
+2. What hostname did you deploy your app to?
+hw04.willbridges.website
+
+3. What's the URL of your git for this assignment?
+https://github.com/willpbridges/cs4550-hw04
+
+4. How much of the functionality did you complete?
+All of it
+
+5. Did you successfully deploy? If not, what's broken?
+Yes
+
+6. How comfortable do you feel with Elixir now?
+Somewhat more comfortable than when I started, but I still don't
+exactly enjoy it.
+
+7. Which parts of this assignment did you have trouble with, if any?
+My first roadblock was understanding how the controller functions
+worked so I could properly render my palindrome page. After that, I
+struggled with the calculator long time. Fundies 1 was a long time
+ago, and I also just had a lot of trouble understanding syntax
+and how certain elixir/erlang functions worked. After all my
+functions worked, it took me a while longer to figure out how to
+deploy and successfully create the systemd process.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
