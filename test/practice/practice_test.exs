@@ -33,6 +33,4 @@ defmodule Practice.PracticeTest do
     assert palindrome?("anna")
     assert palindrome?("true") == false
   end
-
-  # TODO: Add two unit tests for palindrome.
 end

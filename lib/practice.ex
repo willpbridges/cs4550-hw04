@@ -21,7 +21,6 @@ defmodule Practice do
     Practice.Factor.factor(x)
   end
 
-  # TODO: Add a palindrome? function.
   def palindrome?(str) do
     (str |> String.upcase()) === (str |> String.upcase() |> String.reverse())
   end
